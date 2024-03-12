@@ -1,0 +1,207 @@
+# <!=Copyright (C) 2022 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Cook Recipe 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cook-recipe\n"
+"POT-Creation-Date: 2022-07-15 03:35:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:46
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:60
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:62
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:78 functions.php:99
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:100
+msgid "Choose the layout of the header for your site."
+msgstr ""
+
+#: functions.php:113 functions.php:134
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:135
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:147
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:150
+msgid "Change color and body background."
+msgstr ""
+
+#: functions.php:158
+msgid "Typography"
+msgstr ""
+
+#: functions.php:178
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:179
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:200
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:201
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:223
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:224
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:248
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: functions.php:249
+msgid ""
+"Enable to load google fonts from your own server instead from google's CDN. "
+"This solves privacy concerns with Google's CDN and their sometimes "
+"less-than-transparent policies."
+msgstr ""
+
+#: functions.php:268
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: functions.php:269
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: functions.php:277
+msgid "Click the button to reset the local fonts cache"
+msgstr ""
+
+#: functions.php:279
+msgid "Flush Local Font Files"
+msgstr ""
+
+#: functions.php:293
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: functions.php:316
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:317
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:339
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:340
+msgid "Secondary color of the theme."
+msgstr ""
+
+#: functions.php:437
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:586
+msgid " Cook Recipe | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:588
+msgid " Powered by %s. "
+msgstr ""
+
+#: functions.php:588
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Cook Recipe"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/wordpress-themes/cook-recipe/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Cook Recipe is a perfect theme for creating professional food and recipe "
+"websites with multiple Call-to-Action (CTA) to capture leads. Beside food "
+"blogs, this theme can be used for creating different types of blogs such as "
+"fashion, travel, lifestyle,journal, beauty, parenting and much more. This "
+"theme is SEO optimized, mobile-friendly, Schema friendly, and loads faster "
+"to help you rank your recipes higher on search engines. The theme is "
+"compatible with the Delicious Recipes plugin that includes top-notch "
+"features (such as recipe keys, cuisines, advance search, nutrition value, "
+"recipe blocks) to easily create and share your recipes. You can easily "
+"choose from unlimited colors and 900+ Google fonts to change your website "
+"look and feel with a single click. With the Instagram section, you can "
+"share your recipe images and grow your followers. It also includes "
+"newsletter integration to help you grow your email list. Cook Recipe is "
+"translation ready, RTL ready, and WooCommerce compatible. Check demo at "
+"https://blossomthemes.com/theme-demo/?theme=cook-recipe, read the "
+"documentation at https://docs.blossomthemes.com/cook-recipe/, and get "
+"support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:674
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:675
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:676
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""

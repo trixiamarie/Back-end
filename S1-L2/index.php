@@ -58,11 +58,16 @@
     </tr>
   </thead>
   <tbody>
-    <?php
+  <?php
+    if ($firmatari) {
         foreach($firmatari as $indice => $persona) {
             echo "<tr><th scope='row'>". ($indice + 1) ."</th><td>". $persona['nome'] . "</td><td>" . $persona['cognome'] . "</td></tr>";
         }
-    ?>
+    } else {
+        echo "Nessun firmatario disponibile.";
+    }
+?>
+
   </tbody>
 </table>
 </div>

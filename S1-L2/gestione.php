@@ -24,3 +24,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['source']) && $_POST['s
 
 echo '<h1>Contenuto della Sessione:</h1>';
 print_r($_SESSION['firmatari']);
+?>
